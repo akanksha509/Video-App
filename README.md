@@ -1,6 +1,6 @@
 # Video Conferencing App
 
-This repository contains the source code for a secure, real-time video conferencing application built using Next.js, Firebase, Shadcn/ui, and Tailwind CSS. The application replicates core functionalities of popular video conferencing platforms, providing integrated video and messaging capabilities.
+This repository contains a secure, real-time video conferencing application built using Next.js, Firebase, Shadcn/ui, and Tailwind CSS. The application replicates core functionalities of popular video conferencing platforms, providing integrated video and messaging capabilities.
 
 ## Features
 
@@ -45,4 +45,4 @@ This repository contains the source code for a secure, real-time video conferenc
 
 ## Demo
 
-[https://video-app-sepia.vercel.app/](#)
+[https://video-app-sepia.vercel.app/](https://video-app-sepia.vercel.app/)
